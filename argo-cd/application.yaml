@@ -21,3 +21,4 @@ spec:
       selfHeal: true   # 클러스터 리소스가 수동으로 수정되면 Git 상태로 복구
     syncOptions:
       - CreateNamespace=true
+      
